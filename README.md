@@ -1,6 +1,6 @@
 StartUsingDoge
 ==============
 
-A Twitter Bot which gives dogecoin to people which are writing positive tweets about dogecoin.
+A Twitter Bot which gives popularcoin to people which are writing positive tweets about pop.
 
-http://twitter.com/StartUsingDoge
+https://twitter.com/flma93
